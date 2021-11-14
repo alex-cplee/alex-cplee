@@ -20,12 +20,12 @@ I am currently seeking a career switch into data analytics, ultilising my resear
 #### My core data analysis and visualisation skills:
 
 <img width="25" height="25" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/><img width="25" height="25" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png'/><img width="25" height="25" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png'/><img width="25" height="25" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png'/>[<img width="25" height="25" src='https://simpleicons.org/icons/tableau.svg'/>][tableau]<img width="25" height="25" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/>[<img width="25" height="25" src='https://simpleicons.org/icons/adobedreamweaver.svg'/>][Dreamweaver][<img width="25" height="25" src='https://simpleicons.org/icons/adobeillustrator.svg'/>][Illustrator]
+<br />
+<img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=alex-cplee'/>
 
 [tableau]: https://public.tableau.com/app/profile/alex.lee8779
 [Dreamweaver]: https://www.adobe.com/au/products/dreamweaver.html
 [Illustrator]: https://www.adobe.com/au/products/illustrator.html
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-cplee)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **alex-cplee/alex-cplee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
