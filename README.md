@@ -4,7 +4,7 @@ I have a Ph.D. in Plant Biochemistry. I have a decade of Post-doc experience as:
 <ul>
   <li>Research fellow in Professor Ruediger Hell’s laboratory at the University of Heidelberg (2010-2012)</li>
   <li>EMBO long term fellow in Professor Lee Sweetlove’s laboratory at the University of Oxford (2012-2014)</li>
-  <li>Research associate in  Harvey Millar’s laboratory at the University of Western Australia (2014-2021)</li>
+  <li>Research associate in Professor Harvey Millar’s laboratory at the University of Western Australia (2014-2021)</li>
 </ul>
 
 The main theme of my previous research projects was "Plant mitochondrial membrane carriers". I was responsible for collecting small to medium scale data (3-100 samples) of at least two variables (i.e. genotypes and/or conditions), analysing data with appropriate statistics, teaching and mentoring/leading students.
