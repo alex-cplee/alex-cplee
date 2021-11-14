@@ -1,13 +1,13 @@
 ### Hi there I'm Alex 👋
 
-I have a Ph.D. in Plant Biochemistry. A decade of Post-doc experience as a:
+I have a Ph.D. in Plant Biochemistry. I have a decade of Post-doc experience as:
 <ul>
   <li>Research fellow in Professor Ruediger Hell’s laboratory at the University of Heidelberg (2010-2012)</li>
   <li>EMBO long term fellow in Professor Lee Sweetlove’s laboratory at the University of Oxford (2012-2014)</li>
   <li>Research associate in  Harvey Millar’s laboratory at the University of Western Australia (2014-2021)</li>
-  <li>Projects: Plant mitochondrial membrane carriers</li>
-  <li>Duties: Collecting small to medium scale data (3-100 samples) of at least two variables (i.e. genotypes and/or conditions), analysing data with appropriate statistics, teaching and supervising students</li>
 </ul>
+
+The main theme of my previous research projects was "Plant mitochondrial membrane carriers". I was responsible for collecting small to medium scale data (3-100 samples) of at least two variables (i.e. genotypes and/or conditions), analysing data with appropriate statistics, teaching and mentoring/leading students.
 
 Check out my previous <a href='https://scholar.google.com.au/citations?user=cxreV4YAAAAJ&hl=en'>Publications</a></li>! 
 
