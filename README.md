@@ -11,7 +11,7 @@ The main theme of my previous research projects was "Plant mitochondrial membran
 
 Check out my previous <a href='https://scholar.google.com.au/citations?user=cxreV4YAAAAJ&hl=en'>Publications</a></li>! 
 
-I am currently seeking a career switch into data analytics, ultilising my research, writing, data analysis and coding skills to provide technical and analytical supports for decision-making processes in the public and commercial sectors.
+I am currently seeking a career in data analytics, ultilising my research, writing, data analysis and coding skills to provide technical and analytical supports for decision-making processes in the public and commercial sectors.
 
 #### My repositories
 
