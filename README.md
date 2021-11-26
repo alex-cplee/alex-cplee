@@ -17,6 +17,10 @@ I am currently seeking a career in data analytics, ultilising my research, writi
 
 *--under construction--*
 
+[ARAMEMNON Scraper](https://github.com/alex-cplee/data-projects/tree/main/1%20Aramemnon%20Scraper)
+
+[WA Public Sector Employee Perception Survey - analysis](https://github.com/alex-cplee/data-projects/tree/main/2%20Public%20Sector%20Survey)
+
 #### My core data analysis and visualisation skills:
 
 <img width="25" height="25" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/><img width="25" height="25" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png'/><img width="25" height="25" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png'/><img width="25" height="25" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png'/>[<img width="25" height="25" src='https://simpleicons.org/icons/tableau.svg'/>][tableau]<img width="25" height="25" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/>[<img width="25" height="25" src='https://simpleicons.org/icons/adobedreamweaver.svg'/>][Dreamweaver][<img width="25" height="25" src='https://simpleicons.org/icons/adobeillustrator.svg'/>][Illustrator]
