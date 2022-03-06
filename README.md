@@ -46,7 +46,7 @@ Status: *Under development*
 
 In this project, I analyzed the public sector employee perception survey data conducted by the Western Australia Public Sector Commission in 2015, available [here](https://data.gov.au/data/organization/public-sector-commission-wa). Using the data, I examined if there are gender gaps in job satisfaction, salary and career opportunities within the WA public sector. Access the analysis by [clicking here](https://github.com/alex-cplee/WA-Public-Service-Perception-2015/blob/main/SurveyData.ipynb) (Jupyter Notebook report) or by [clicking here](https://github.com/alex-cplee/WA-Public-Service-Perception-2015/blob/main/PowerBI_dashborad.pbix?raw=true) (Power BI dashboard). The report was generated using Jupyter Notebook with SQL and Python as the languages for data cleaning, manipulation and visualisation.
 
-### APS Employee Census 2020
+### Bike Sharing Dataset
 
 *Under development*
 
