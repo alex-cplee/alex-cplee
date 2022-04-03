@@ -13,6 +13,7 @@ Check out my previous <a href='https://scholar.google.com.au/citations?user=cxre
 
 I am currently seeking a career in data analytics, ultilising my research, writing, data analysis and coding skills to provide technical and analytical supports for decision-making processes in the public and commercial sectors.
 
+*currently working on my project @UWA so any updates here will be pushed back!
 
 #### My core data analysis and visualisation skills:
 
