@@ -51,6 +51,7 @@ In this project, I analyzed the public sector employee perception survey data co
 
 ### [Public Toilets in Australia](https://github.com/alex-cplee/national_toilet)
 
+A Power BI Dashboard showing the locations and types of public toilets in Australia. Data source: [data.gov.au](https://www.data.gov.au/data/dataset/national-public-toilet-map)
 
 
 <!--
