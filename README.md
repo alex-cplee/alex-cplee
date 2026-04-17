@@ -13,29 +13,12 @@ Check out my previous <a href='https://scholar.google.com.au/citations?user=cxre
 
 I am currently working in the public sector as a data analyst.
 
-#### My core data analysis and visualisation skills:
-
-<img width="25" height="25" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/><img width="25" height="25" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png'/><img width="25" height="25" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png'/><img width="25" height="25" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png'/>[<img width="25" height="25" src='https://simpleicons.org/icons/tableau.svg'/>][tableau]<img width="25" height="25" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/>[<img width="25" height="25" src='https://simpleicons.org/icons/adobedreamweaver.svg'/>][Dreamweaver][<img width="25" height="25" src='https://simpleicons.org/icons/adobeillustrator.svg'/>][Illustrator]
-[<img width="25" height="25" src='https://simpleicons.org/icons/powerbi.svg'/>][PowerBI]
-<br />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=alex-cplee'/>
-
-[tableau]: https://public.tableau.com/app/profile/alex.lee8779
-[Dreamweaver]: https://www.adobe.com/au/products/dreamweaver.html
-[Illustrator]: https://www.adobe.com/au/products/illustrator.html
-[PowerBI]: https://powerbi.microsoft.com/en-au/
-
-
+<a href='www.linkedin.com/in/chun-pong-alex-lee-789539213'>Linkedin</a>
 
 ##  Applications/Tools
 ### [ARAMEMNON Scraper](https://github.com/alex-cplee/ARAMEMNON-Scraper)
 <img align="right" src="https://github.com/alex-cplee/ARAMEMNON-Scraper/blob/main/Graphics/AramemScrap.png" width="200" height="200"></img>
 This is a R-based web scraping app for obtaining gene annotation and transmembrane domain information of a large number of genes from [ARAMEMNON](https://aramemnon.botanik.uni-koeln.de/). This is entirely a web-based app, so you don't have to worry about reading, writing or modifying codes - just run the script in R, upload your gene list, grap your coffee/tea and wait for the job to finish. The script feeds your list of plant genes into the database and returns a table for determining whether your genes are soluble/peripheral or membrane proteins and the number of predicted transmembrane domains according to the Consensus TM alpha helix prediction ([AramTmCon](http://aramemnon.botanik.uni-koeln.de/proj_view2.ep?id=tm&mode=1)). The app was built using RStudio.
-
-### Rapid Data Reporter for Agilent MassHunter Quantitative Analysis Software
-*Repository under construction*
-
-A R script I routinely used for reporting data exported from the Agilent MassHunter Quantitative Analysis Software in an instance. This script will transform multi-index excel table into appropriate dataframe and normalise raw data using a user-entered normalisation factor(s). Multiple bar graphs will then be generated (depending on the number of experimental conditions/variables) in one panel and statistical analysis is carried out using one-way ANOVA, normality tests and post-hoc Tukey test. The fully automated process takes only a few seconds to go through hundreds of samples. 
 
 ## Data Analytics
 ### [WA Public Service Perception Survey 2015](https://github.com/alex-cplee/WA-Public-Service-Perception-2015)
