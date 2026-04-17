@@ -13,7 +13,7 @@ Check out my previous <a href='https://scholar.google.com.au/citations?user=cxre
 
 I am currently working in the public sector as a data analyst.
 
-<a href='www.linkedin.com/in/chun-pong-alex-lee-789539213'>Linkedin</a>
+<a href='https://www.linkedin.com/in/chun-pong-alex-lee-789539213'>Linkedin</a>
 
 ##  Applications/Tools
 ### [ARAMEMNON Scraper](https://github.com/alex-cplee/ARAMEMNON-Scraper)
